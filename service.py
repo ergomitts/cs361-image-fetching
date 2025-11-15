@@ -1,3 +1,2 @@
 def service(input):
-    print(f"Hello from service: {input}")
-    return
+    return f"Hello from service: {input}"
