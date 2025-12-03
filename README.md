@@ -1,4 +1,4 @@
-# cs361-image-fetching
+# Image Fetching Microservice
 
 ## Setup
 ### Requirements/Installations
